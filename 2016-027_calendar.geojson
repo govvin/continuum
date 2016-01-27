@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1a4f1",
+        "marker-size": "large",
+        "marker-symbol": "marker",
+        "Date": "1/23/2016",
+        "Participants": 55,
+        "Active Contributors": 31,
+        "Project": "TM 1129",
+        "Objects Created in AOI": 25899,
+        "Venue": "U.S. Embassy, Manila",
+        "Organizer": "MapPHL",
+        "Hashtag": "#ManilaMapathon",
+        "Writeup": "http://www.osm.org/user/GOwin/diary/37829h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97639,
+          14.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1a4f1",
+        "marker-size": "large",
+        "marker-symbol": "marker",
+        "Date": "1/14/2016",
+        "Participants": 30,
+        "Active Contributors": 11,
+        "Project": "CR+ID",
+        "Objects Created in AOI": 270,
+        "Venue": "Y Hotel, Butuan City",
+        "Organizer": "The Asia Foundation",
+        "Hashtag": "#taf-caraga",
+        "Writeup": "htpp://www.osm.org/user/GOwin/diary/378http://www.openstreetmap.org/user/GOwin/diary/37834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53917288780214,
+          8.938216661387795
+        ]
+      }
+    }
+  ]
+}
