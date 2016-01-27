@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff932e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "Date": "2016/1/13",
+        "Event Type": "Workshop + Mapathon",
+        "Attendees": 55,
+        "Contributors": 31,
+        "Project": "TM 1129, MapGive Leyte",
+        "Objects Created in AOI": 25899,
+        "Partner": "U.S. Embassy, Manila",
+        "Venue": "Manila, NCR",
+        "Organizer": "Map the Philippines",
+        "Hashtag": "#ManilaMapathon",
+        "Writeup": "http://www.osm.org/user/GOwin/diary/37829h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97639,
+          14.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff932e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "Date": "2016/1/14",
+        "Event Type": "Training Workshop",
+        "Attendees": 30,
+        "Contributors": 11,
+        "Project": "CfC / CR+ID",
+        "Objects Created in AOI": 270,
+        "Partner": "",
+        "Venue": "Y Hotel, Butuan City, Caraga",
+        "Organizer": "The Asia Foundation",
+        "Hashtag": "#taf-caraga",
+        "Writeup": "htpp://www.osm.org/user/Gowin/diary/378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5391728878,
+          8.9382166614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "2013-01-23",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "",
+        "Objects Created in AOI": "",
+        "Partner": "Lubao, Pampanga",
+        "Venue": "Lubao, PAM",
+        "Organizer": "Environmental Science for Social Change",
+        "Hashtag": "DRR",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59957,
+          14.93772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "CfC / CR+ID",
+        "Objects Created in AOI": "",
+        "Partner": "",
+        "Venue": "Butuan, AGN",
+        "Organizer": "The Asia Foundation",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5291199684,
+          8.9534570572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "CfC / CR+ID",
+        "Objects Created in AOI": "",
+        "Partner": "Negros Oriental Provincial Planning and Development Office",
+        "Venue": "Dumaguete, NEC",
+        "Organizer": "The Asia Foundation",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2851409912,
+          9.3176350233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "CfC / CR+ID",
+        "Objects Created in AOI": "",
+        "Partner": "",
+        "Venue": "Iloilo, ILI",
+        "Organizer": "The Asia Foundation",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5664377213,
+          10.6944722992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "CfC / CR+ID",
+        "Objects Created in AOI": "",
+        "Partner": "Bohol LGU",
+        "Venue": "Tagbilaran, BOH",
+        "Organizer": "The Asia Foundation",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8632965088,
+          9.6603231683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "OpenRoads",
+        "Objects Created in AOI": "",
+        "Partner": "Baybay LGU",
+        "Venue": "Baybay, LEY",
+        "Organizer": "Map the Philippines",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8022842407,
+          10.6774773397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Advanced OSM Training",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "OpenRoads",
+        "Objects Created in AOI": "",
+        "Partner": "",
+        "Venue": "Lipa, BAT",
+        "Organizer": "Map the Philippines",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0830688477,
+          13.7900714372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Advanced OSM Training",
+        "Attendees": "",
+        "Contributors": 41,
+        "Project": "OpenRoads",
+        "Objects Created in AOI": "",
+        "Partner": "FEU Institute of Technology",
+        "Venue": "Manila, NCR",
+        "Organizer": "Map the Philippines",
+        "Hashtag": "#osmfeu2015",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9885960817,
+          14.6040892558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "OSM Appreciation | Talk",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "Mapping for Every Juan",
+        "Objects Created in AOI": "",
+        "Partner": "Silliman University",
+        "Venue": "Dumaguete, NEC",
+        "Organizer": "OSMph",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3072048426,
+          9.3117855027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "OSM Appreciation | Talk",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "Mapping for Every Juan",
+        "Objects Created in AOI": "",
+        "Partner": "Foundation University",
+        "Venue": "Dumaguete, NEC",
+        "Organizer": "OSMph",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2998609543,
+          9.3058194201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "OSM / Inasafe Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "",
+        "Objects Created in AOI": "",
+        "Partner": "Schweizerisches Rotes Kreuz (SRK) and Philipine Red Cross",
+        "Venue": "Busuanga, PLW",
+        "Organizer": "OSMph",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9357914925,
+          12.1329424096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "OSM Appreciation | Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "",
+        "Objects Created in AOI": "",
+        "Partner": "HSBC",
+        "Venue": "Taguig, NCR",
+        "Organizer": "Philippine Disaster Resilience Foundation",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0480338335,
+          14.5536675192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Extended Mapathon",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "WHO-MCP Luzon Road and River Network Mapping",
+        "Objects Created in AOI": "",
+        "Partner": "",
+        "Venue": "Luzon island",
+        "Organizer": "OSMph",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9484863281,
+          15.5807107392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "Participatory mapping and LGU decision support tools for DRR",
+        "Objects Created in AOI": "",
+        "Partner": "World Bank / GFDRR",
+        "Venue": "Lubao, PAM",
+        "Organizer": "Environmental Science for Social Change",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6007432938,
+          14.9378188564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "Participatory mapping and LGU decision support tools for DRR",
+        "Objects Created in AOI": "",
+        "Partner": "World Bank / GFDRR",
+        "Venue": "Guagua, PAM",
+        "Organizer": "Environmental Science for Social Change",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6351184845,
+          14.9655157355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "Training Workshop",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "Participatory mapping and LGU decision support tools for DRR",
+        "Objects Created in AOI": "",
+        "Partner": "World Bank / GFDRR",
+        "Venue": "Candaba, PAM",
+        "Organizer": "Environmental Science for Social Change",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8214569092,
+          15.0916818661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Date": "",
+        "Event Type": "OSM Appreciation | Talk",
+        "Attendees": "",
+        "Contributors": "",
+        "Project": "Mapping for Every Juan",
+        "Objects Created in AOI": "",
+        "Partner": "Universidad de Zamboanga",
+        "Venue": "Zamboanga City, PH",
+        "Organizer": "OSMph",
+        "Hashtag": "",
+        "Writeup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0794719458,
+          6.9138696991
+        ]
+      }
+    }
+  ]
+}
