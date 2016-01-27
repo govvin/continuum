@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1a4f1",
+        "marker-size": "large",
+        "marker-symbol": "marker",
+        "Date": "1/23/2016",
+        "Participants": 55,
+        "Active Contributors": 31,
+        "Project": "TM 1129",
+        "Objects Created in AOI": 25899,
+        "Host": "U.S. Embassy, Manila",
+        "Organizer": "MapPHL",
+        "Hashtag": "#ManilaMapathon",
+        "Writeup": "www.osm.org/user/GOwin/diary/37829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97639,
+          14.577
+        ]
+      }
+    }
+  ]
+}
