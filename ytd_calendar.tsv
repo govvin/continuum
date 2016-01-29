@@ -1,0 +1,42 @@
+marker-color	marker-size	marker-symbol	Date	Event Type	Attendees	Contributors	Project / Event	Objects Created in AOI	Participants	Partner / Host	Venue	Organizer	Hashtag	Writeup	lonitude	latitude
+#ff932e	medium	marker	2016-01-13	Workshop + Mapathon	55	31	TM 1129, MapGive Leyte	25899		U.S. Embassy, Manila	Manila, NCR	Map the Philippines	#ManilaMapathon	http://www.osm.org/user/GOwin/diary/37829h	120.97639	14.577
+#ff932e	medium	marker	2016-01-14	Training Workshop	30	11	CfC / CR+ID	270			Y Hotel, Butuan City, Caraga	The Asia Foundation	#taf-caraga	htpp://www.osm.org/user/Gowin/diary/378	125.5391728878	8.9382166614
+#7e7e7e	small		2015-11-17	Workshop + Mapathon			TM 1129, MapGive Leyte			Mozilla Philippines	Mozilla Community Space Manila, Makati, NCR	Map the Philippines			121.01576	14.54682
+#7e7e7e	small		2015-08-21	Training Workshop			CfC / CR+ID			Provincial and Municipal LGUs	Panglao, BOH	The Asia Foundation			123.77253	9.55042
+#7e7e7e	small		2015-08-21	Training Workshop			CfC / CR+ID			Negros Province, LGU	Dumaguete, NEC	The Asia Foundation			123.2851409912	9.3176350233
+#7e7e7e	small		2015-05-23	Training Workshop			CfC / CR+ID				Iloilo, ILI	The Asia Foundation			122.5664377213	10.6944722992
+#7e7e7e	small		2015-07-17	Training Workshop			CfC / CR+ID			Provincial LGU	Tagbilaran, BOH	The Asia Foundation			123.8632965088	9.6603231683
+#7e7e7e	small		2015-07-11	Training Workshop			OpenRoads			Baybay LGU	Baybay, LEY	Map the Philippines			124.8022842407	10.6774773397
+#7e7e7e	small		2015-04-11	OSM Essentials Training			OpenRoads				Lipa, BAT	Map the Philippines			121.0830688477	13.7900714372
+#7e7e7e	small			Advanced OSM Training		41	OpenRoads			FEU Institute of Technology	Manila, NCR	Map the Philippines	#osmfeu2015		120.9885960817	14.6040892558
+#7e7e7e	small		2015-08-22	OSM Appreciation | Talk			Mapping for Every Juan			Silliman University	Dumaguete, NEC	OSMph			123.3072048426	9.3117855027
+#7e7e7e	small		2015-08-24	OSM Appreciation | Talk			Mapping for Every Juan			Foundation University	Dumaguete, NEC	OSMph			123.2998609543	9.3058194201
+#7e7e7e	small			IntermediateOSM / Inasafe Workshop			Disaster Resilience Program			Busuanga LGU, Schweizerisches Rotes Kreuz (SRK), Philipine Red Cross	Busuanga, PLW	OSMph			119.9357914925	12.1329424096
+#7e7e7e	small		2015-09-05	OSM Appreciation | Workshop						HSBC	Taguig, NCR	Philippine Disaster Resilience Foundation			121.0480338335	14.5536675192
+#7e7e7e	small			Extended Mapathon			WHO-MCP Luzon Road and River Network Mapping				Luzon island	OSMph			120.9484863281	15.5807107392
+#7e7e7e	small		2013-11-05 to 07	Training Workshop			Participatory mapping and LGU decision support tools for DRR			World Bank / GFDRR	Lubao, PAM	Environmental Science for Social Change			120.6007432938	14.9378188564
+#7e7e7e	small		2013-10-23 to 25	Training Workshop			Participatory mapping and LGU decision support tools for DRR			World Bank / GFDRR	Guagua, PAM	Environmental Science for Social Change			120.6351184845	14.9655157355
+#7e7e7e	small		2013	Training Workshop			Participatory mapping and LGU decision support tools for DRR			World Bank / GFDRR	Candaba, PAM	Environmental Science for Social Change			120.8214569092	15.0916818661
+#7e7e7e	small		2014-06-13 to 15	Training of Trainers Workshop			First OpenStreetMap Training-of-Trainers Workshop			Humanitarian OpenStreetMap Team	ADMU, Quezon City, NCR	Environmental Science for Social Change			121.0782	14.64172
+#7e7e7e	small		2014-03-27 to 28	OSM Appreciation | Talk			Mapping for Every Juan		Students	Universidad de Zamboanga	Zamboanga City, PH	OSMph			122.0794719458	6.9138696991
+#7e7e7e	small		2014-03-29	OSM Appreciation | Talk			Mapping for Every Juan		In-house	Zamboanga City LGU	City Hall, Zamboanga City, PH	OSMph			122.0761	6.90404
+#7e7e7e	small		2013-09-21	Workshop			Software Freedom Day 2013			Far Eastern University	Manila, NCR	OSMph			120.98657	14.60393
+#7e7e7e	small		2012-11-22 to 24	Workshop			PhilGEOS 2012		Students	Melchor Hall University of the Philippines, Diliman, Quezon City		OSMph		http://wiki.osgeo.org/wiki/Philippines/philgeos2012	121.06965	14.65647
+#7e7e7e	small		2012-10-05	Workshop			Knowledge for Development Center Open Development Training		In-house	World Bank 	World Bank Office, NCR	OSMph			121.04701	14.54826
+#7e7e7e	small		2012-08	Talk			OSM session with South Cotabato LGU		LGU, NGO		Koronadal City, SCO	OSMph			124.86565	6.4796
+#7e7e7e	small		2012-04-21	Talk			New Mobility – Non-Motorized Transport Mapping Workshop			Ateneo School of Government - iBoP Asia	ADMU Campus, QC	OSMph			121.07762	14.64147
+#7e7e7e	small		2011-02-18	Talk			OSM-PH Garmin Map Hackday				ADMU Campus, QC	OSMph			121.077	14.6386
+#7e7e7e	small		2011-01-29	Workshop			Mini-OSM Workshop with 			ADDU Eng'g students	ADdU Campus, Davao City	OSMph		http://www.openstreetmap.org/user/maning/diary/12938	125.61322	7.07205
+#7e7e7e	small		2011-01-15	Mapping Party			GK-Telus Mapping				Quezon City, NCR	OSMph			121.03312	14.67427
+#7e7e7e	small		2010-06-26	Skillshare			OSM SkillShare				Coffee Bean & Tea Leaf (1800 Eastwood Avenue), Eastwood City, Libis, QC	OSMph			121.07962	14.61003
+#7e7e7e	small		2010-02-20	Workshop			OSM-PH Workshop		In-house	FEATI SAGE students	FEATI University, Manila	OSMph			120.98138	14.59746
+#7e7e7e	small		2009-10-26	Workshop			OSM-PH Workshop		In-house	UP Diliman Geography Department students	UP Diliman, QC	OSMph			121.06986	14.65343
+#7e7e7e	small		2009-06-28	Meet-up			OSM–BMW Club Meetup			BMW Car Club of the Philippines	Centerstage KTV, Jupiter St., Makati				121.03095	14.56038
+#7e7e7e	small		2009-06-20	Workshop			OSM-PH Workshop			DabaweGNU Lab, Obrero, Davao City	Obrero, Davao City	DabaweGNU.org			125.61571	7.081062
+#7e7e7e	small		2009-05-30	Talk			1st Ideacamp Davao			1st Ideacamp Davao	Kublai's Cafe, Ponce Suites Hotel, Dona Vicenta Village, Davao City	Idea Camp			125.6078	7.0839
+#7e7e7e	small		2009-03-28	Talk			DabaweGNU.org's Linux & Kape			DabaweGNU.org	DabaweGNU Lab	DabaweGNU.org			125.61571	7.081062
+#7e7e7e	small		2009-02-07	Meet-up			OSM-PH First Meetup				Grappa's, Greenbelt 3, Makati	OSMph			121.022454	14.552015
+#7e7e7e	small		2009-02-04	Meet-up						Subaru Club of the Philippines	Subaru-MotorImage Showroom	OSMph				
+#7e7e7e	small		2008-11-19	Talk					Students	College of St. Benilde Talk	CSB, Manila, NCR	OSMph		https://lists.openstreetmap.org/pipermail/talk-ph/2008-November/000124.html	120.99505	14.56378
+#7e7e7e	small		2008-10-18	Meet-up			OpenStreetMap-WaypointsDotPH Meetup			Mr. Louie Galvez	Makati, NCR	OSMph		https://lists.openstreetmap.org/pipermail/talk-ph/2008-October/000067.html	121.0235	14.5569
+#7e7e7e	small		2008-10-10	Meet-up			WaypointsDotPH EB			Mr. Ed Garcia		OSMph		https://lists.openstreetmap.org/pipermail/talk-ph/2008-October/000060.html		
