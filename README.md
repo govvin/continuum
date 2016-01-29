@@ -1,6 +1,6 @@
 # OpenStreetMap Philippines - 2016 Event Map
 
-[Map](http://geojson.io/#id=github:OSMPH/events/blob/master/calendar.geojson) of activities and events involving [OpenStreetMap Philippines](http://openstreetmap.org.ph)
 
+[![OSMPH engagements since 2008](http://i.imgur.com/m8AdEx2.png)](http://geojson.io/#id=github:OSMPH/events/blob/master/calendar.geojson) 
 
-Markers using color `#f1a4f1` are events within the current year. Older events are in dreary `#7e7e7e`.
+Mapping events involving [OpenStreetMap Philippines](http://openstreetmap.org.ph) since 2008.
