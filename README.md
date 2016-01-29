@@ -1,4 +1,4 @@
-# OpenStreetMap Philippines - 2016 Event Map
+# OpenStreetMap Philippines - Map events since 2008
 
 
 [![OSMPH engagements since 2008](http://i.imgur.com/m8AdEx2.png)](http://geojson.io/#id=github:OSMPH/events/blob/master/calendar.geojson)
