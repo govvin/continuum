@@ -5,4 +5,4 @@
 
 Mapping events involving [OpenStreetMap Philippines](http://openstreetmap.org.ph) since 2008.
 
-The source file is available here: http://geojson.io/#id=github:OSMPH/events/blob/master/calendar.geojson
+The github repo is here: https://github.com/OSMPH/events/
