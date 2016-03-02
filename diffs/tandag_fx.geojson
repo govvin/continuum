@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-03-02T14:33:01Z",
+  "timestamp": "2016-03-02T14:35:03Z",
   "features": [
     {
       "type": "Feature",
@@ -1024,15 +1024,17 @@
       "id": "way/31610744",
       "properties": {
         "@id": "way/31610744",
-        "layer": "1",
-        "name": "Tandag Bridge",
-        "highway": "trunk",
         "bridge": "yes",
-        "@timestamp": "2016-02-02T15:23:03Z",
-        "@version": 6,
-        "@changeset": 36959292,
-        "@user": "maning",
-        "@uid": 1417
+        "bridge:name": "Tandag Bridge",
+        "highway": "trunk",
+        "layer": "1",
+        "name": "National Highway",
+        "reg_name": "Surigao - Davao Coastal Road",
+        "@timestamp": "2016-02-23T13:23:12Z",
+        "@version": 7,
+        "@changeset": 37388715,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
@@ -1053,13 +1055,14 @@
       "id": "way/31610745",
       "properties": {
         "@id": "way/31610745",
-        "name": "Surigao - Davao Coastal Road",
         "highway": "trunk",
-        "@timestamp": "2015-01-23T23:38:17Z",
-        "@version": 8,
-        "@changeset": 28362260,
-        "@user": "ampak",
-        "@uid": 1917503
+        "name": "National Highway",
+        "reg_name": "Surigao - Davao Coastal Road",
+        "@timestamp": "2016-02-23T13:23:12Z",
+        "@version": 9,
+        "@changeset": 37388715,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
@@ -3053,8 +3056,8 @@
             9.0788658
           ],
           [
-            126.2009454,
-            9.078749
+            126.2012157,
+            9.0785919
           ]
         ]
       }
@@ -4467,11 +4470,12 @@
       "properties": {
         "@id": "way/208176534",
         "highway": "service",
-        "@timestamp": "2013-03-04T06:27:41Z",
-        "@version": 1,
-        "@changeset": 15242585,
-        "@user": "maning",
-        "@uid": 1417
+        "service": "driveway",
+        "@timestamp": "2016-02-24T10:47:34Z",
+        "@version": 2,
+        "@changeset": 37409506,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
@@ -4946,11 +4950,12 @@
       "properties": {
         "@id": "way/208176545",
         "highway": "service",
-        "@timestamp": "2013-03-04T06:27:42Z",
-        "@version": 1,
-        "@changeset": 15242585,
-        "@user": "maning",
-        "@uid": 1417
+        "service": "driveway",
+        "@timestamp": "2016-02-24T10:47:34Z",
+        "@version": 2,
+        "@changeset": 37409506,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
@@ -4980,18 +4985,18 @@
       "properties": {
         "@id": "way/208176546",
         "highway": "residential",
-        "@timestamp": "2013-03-04T06:27:42Z",
-        "@version": 1,
-        "@changeset": 15242585,
-        "@user": "maning",
-        "@uid": 1417
+        "@timestamp": "2016-02-24T10:47:34Z",
+        "@version": 2,
+        "@changeset": 37409506,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            126.2012205,
-            9.0786034
+            126.2012157,
+            9.0785919
           ],
           [
             126.2009073,
@@ -6331,11 +6336,12 @@
       "properties": {
         "@id": "way/208176569",
         "highway": "service",
-        "@timestamp": "2013-03-04T06:27:43Z",
-        "@version": 1,
-        "@changeset": 15242585,
-        "@user": "maning",
-        "@uid": 1417
+        "service": "driveway",
+        "@timestamp": "2016-02-24T10:47:34Z",
+        "@version": 2,
+        "@changeset": 37409506,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
@@ -14589,11 +14595,13 @@
       "properties": {
         "@id": "way/323903928",
         "highway": "trunk",
-        "@timestamp": "2015-01-23T23:52:55Z",
-        "@version": 1,
-        "@changeset": 28362441,
-        "@user": "ampak",
-        "@uid": 1917503
+        "name": "National Highway",
+        "reg_name": "Surigao - Davao Coastal Road",
+        "@timestamp": "2016-02-23T13:23:11Z",
+        "@version": 2,
+        "@changeset": 37388715,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "LineString",
@@ -14853,6 +14861,26 @@
             126.1909201,
             9.0696651
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2185042378",
+      "properties": {
+        "@id": "node/2185042378",
+        "noexit": "yes",
+        "@timestamp": "2016-02-24T10:47:34Z",
+        "@version": 2,
+        "@changeset": 37409506,
+        "@user": "GOwin",
+        "@uid": 1041828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2011072,
+          9.0794905
         ]
       }
     }
