@@ -1,16 +1,16 @@
-# OpenStreetMap Philippines - Mapping Events since 2008
+# OpenStreetMap Philippines - Mapa rito. Mapa roon. Mula MMVIII.
 
 
-[![OSMPH engagements since 2008](http://i.imgur.com/m8AdEx2.png)](http://geojson.io/#id=github:OSMPH/events/blob/master/calendar.geojson)
+[![OSMPH engagements since 2008](http://i.imgur.com/m8AdEx2.png)](http://geojson.io/#id=github:OSMPH/continuum/blob/master/calendar.geojson)
 
 OpenStreetMap Mapping Events since 2008, in collaboration with advocates from the [OpenStreetMap Philippines](http://openstreetmap.org.ph) community.
 
 ##Visualizations
-- geojosn.io: http://geojson.io/#id=github:OSMPH/events/blob/master/calendar.geojson
-- umap: http://umap.openstreetmap.fr/en/map/awesome-osm-philippines_68856
+- geojosn.io: http://geojson.io/#id=github:OSMPH/continuum/blob/master/calendar.geojson&map=7/11.065/122.776
+- umap: https://umap.openstreetmap.fr/en/map/openstreetmap-philippines-events_73616
 
 ##About
-The first Philippine [edits](http://www.openstreetmap.org/changeset/491946) was made in 31st December, 2007, by [maning](http://www.openstreetmap.org/user/maning). Since then, we've been involved, one way or another, in various mapping events in the Philippines - physically, or remotely.
+The first Philippine [edit](http://www.openstreetmap.org/changeset/491946) was made in 31st December, 2007, by [maning](http://www.openstreetmap.org/user/maning). Since then, the community members have been involved, one way or another, in various mapping activities in the Philippines - physically, or remotely, and around the world.
 
 ##How to Contribute
 1.  **Technical Way** To contribute, fork the project and update the calendar.geojson file and send a pull request with the changes. You can use Mapbox's nifty http://geojson.io/ project to work with the data in a browser if you are not familar with desktop Geographic Information Systems ("GIS") programs such as [QGIS] (http://www.qgis.org/en/site/). 
