@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-03-03T08:46:02Z",
+  "timestamp": "2016-03-03T08:49:01Z",
   "features": [
     {
       "type": "Feature",
@@ -791,7 +791,9 @@
       "id": "way/303578443",
       "properties": {
         "@id": "way/303578443",
-        "building": "roof"
+        "amenity": "marketplace",
+        "building": "roof",
+        "name": "San Francisco Public Market"
       },
       "geometry": {
         "type": "Polygon",
@@ -2402,8 +2404,10 @@
       "id": "way/334470941",
       "properties": {
         "@id": "way/334470941",
-        "name": "Barangay 2, Barangay Hall",
-        "area": "yes"
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Barangay 2Barangay Hall",
+        "townhall:type": "village"
       },
       "geometry": {
         "type": "Polygon",
@@ -2428,43 +2432,6 @@
             [
               125.9808531,
               8.5086825
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/334471220",
-      "properties": {
-        "@id": "way/334471220",
-        "building": "yes",
-        "name": "RRJ",
-        "shop": "fashion"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              125.9790647,
-              8.507862
-            ],
-            [
-              125.9790665,
-              8.5078098
-            ],
-            [
-              125.9791011,
-              8.5078152
-            ],
-            [
-              125.9790993,
-              8.507862
-            ],
-            [
-              125.9790647,
-              8.507862
             ]
           ]
         ]
@@ -2687,6 +2654,370 @@
             [
               125.9731327,
               8.5106395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399325306",
+      "properties": {
+        "@id": "way/399325306",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "5",
+        "addr:postcode": "8501",
+        "addr:street": "Laurel Street",
+        "building": "house",
+        "building:levels": "1",
+        "name": "Bordaje's Residence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9763514,
+              8.5021244
+            ],
+            [
+              125.9763833,
+              8.5020614
+            ],
+            [
+              125.9764257,
+              8.5020806
+            ],
+            [
+              125.9763921,
+              8.5021419
+            ],
+            [
+              125.9763691,
+              8.5021331
+            ],
+            [
+              125.9763514,
+              8.5021244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399333210",
+      "properties": {
+        "@id": "way/399333210",
+        "landuse": "commercial",
+        "name": "Baptist Church"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9765291,
+              8.5024235
+            ],
+            [
+              125.9768215,
+              8.5025243
+            ],
+            [
+              125.9768483,
+              8.5024977
+            ],
+            [
+              125.9770495,
+              8.5025694
+            ],
+            [
+              125.9769851,
+              8.5027551
+            ],
+            [
+              125.9767437,
+              8.5026596
+            ],
+            [
+              125.9767303,
+              8.502702
+            ],
+            [
+              125.9764299,
+              8.5025482
+            ],
+            [
+              125.9764487,
+              8.5024871
+            ],
+            [
+              125.9764728,
+              8.502442
+            ],
+            [
+              125.9765291,
+              8.5024235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345584",
+      "properties": {
+        "@id": "way/399345584",
+        "building": "commercial",
+        "building:levels": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9770978,
+              8.5073126
+            ],
+            [
+              125.9769789,
+              8.5072354
+            ],
+            [
+              125.9770402,
+              8.5071491
+            ],
+            [
+              125.9771591,
+              8.5072262
+            ],
+            [
+              125.9770978,
+              8.5073126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345793",
+      "properties": {
+        "@id": "way/399345793",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9790748,
+              8.5078632
+            ],
+            [
+              125.9790813,
+              8.5076965
+            ],
+            [
+              125.9792093,
+              8.5076965
+            ],
+            [
+              125.9792077,
+              8.507868
+            ],
+            [
+              125.9790748,
+              8.5078632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345794",
+      "properties": {
+        "@id": "way/399345794",
+        "landuse": "residential"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9794059,
+              8.5079623
+            ],
+            [
+              125.9794077,
+              8.5078933
+            ],
+            [
+              125.9795217,
+              8.5078969
+            ],
+            [
+              125.9795217,
+              8.5079696
+            ],
+            [
+              125.9794555,
+              8.507966
+            ],
+            [
+              125.9794059,
+              8.5079623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345795",
+      "properties": {
+        "@id": "way/399345795",
+        "amenity": "cafe",
+        "building": "hut",
+        "cuisine": "asian",
+        "internet_access": "no",
+        "name": "Eatery",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9790483,
+              8.5076944
+            ],
+            [
+              125.9790487,
+              8.5076398
+            ],
+            [
+              125.9790848,
+              8.507637
+            ],
+            [
+              125.9790898,
+              8.507693
+            ],
+            [
+              125.9790483,
+              8.5076944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345904",
+      "properties": {
+        "@id": "way/399345904",
+        "building": "commercial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9784307,
+              8.5073326
+            ],
+            [
+              125.978502,
+              8.5072189
+            ],
+            [
+              125.9786374,
+              8.5073035
+            ],
+            [
+              125.9785644,
+              8.5074154
+            ],
+            [
+              125.9784307,
+              8.5073326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345999",
+      "properties": {
+        "@id": "way/399345999",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9796355,
+              8.508117
+            ],
+            [
+              125.979643,
+              8.5080427
+            ],
+            [
+              125.9797034,
+              8.5080486
+            ],
+            [
+              125.979696,
+              8.5081229
+            ],
+            [
+              125.9796355,
+              8.508117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399346754",
+      "properties": {
+        "@id": "way/399346754",
+        "landuse": "commercial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.9783352,
+              8.5093857
+            ],
+            [
+              125.9766675,
+              8.508014
+            ],
+            [
+              125.9778894,
+              8.5063647
+            ],
+            [
+              125.9791402,
+              8.5064871
+            ],
+            [
+              125.9790576,
+              8.5084672
+            ],
+            [
+              125.9783352,
+              8.5093857
             ]
           ]
         ]
@@ -3072,6 +3403,10 @@
           [
             125.9740307,
             8.4885871
+          ],
+          [
+            125.972669,
+            8.4869472
           ],
           [
             125.9725218,
@@ -3536,16 +3871,16 @@
             8.508703
           ],
           [
-            125.9846814,
-            8.5090029
+            125.984626,
+            8.5089827
           ],
           [
-            125.9847096,
-            8.5092987
+            125.9846555,
+            8.5092931
           ],
           [
-            125.9847351,
-            8.5096992
+            125.984669,
+            8.5097493
           ]
         ]
       }
@@ -3766,8 +4101,8 @@
             8.5080662
           ],
           [
-            125.9782343,
-            8.5082357
+            125.9782129,
+            8.5081896
           ]
         ]
       }
@@ -3820,20 +4155,24 @@
             8.50842
           ],
           [
-            125.9779905,
-            8.5085695
+            125.9779527,
+            8.508553
           ],
           [
-            125.9782343,
-            8.5082357
+            125.9782129,
+            8.5081896
           ],
           [
-            125.9785269,
-            8.5084687
+            125.9785014,
+            8.5083864
           ],
           [
-            125.978774,
-            8.5086982
+            125.9785589,
+            8.5084257
+          ],
+          [
+            125.9788432,
+            8.5085954
           ]
         ]
       }
@@ -3894,12 +4233,12 @@
             8.5069501
           ],
           [
-            125.9780254,
-            8.5069912
+            125.9779959,
+            8.5069637
           ],
           [
-            125.9778052,
-            8.5073099
+            125.9777695,
+            8.507287
           ],
           [
             125.9775526,
@@ -3927,16 +4266,16 @@
             8.5078755
           ],
           [
-            125.9786423,
-            8.5082565
+            125.9785911,
+            8.5081577
           ],
           [
-            125.9786155,
-            8.5083918
+            125.9786018,
+            8.5083063
           ],
           [
-            125.9785269,
-            8.5084687
+            125.9785589,
+            8.5084257
           ]
         ]
       }
@@ -4412,12 +4751,12 @@
             8.5075207
           ],
           [
-            125.9787159,
-            8.5074862
+            125.9786754,
+            8.5074718
           ],
           [
-            125.9787702,
-            8.5068432
+            125.9787361,
+            8.5068552
           ],
           [
             125.9783959,
@@ -4458,8 +4797,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            125.9787159,
-            8.5074862
+            125.9786754,
+            8.5074718
           ],
           [
             125.9784945,
@@ -4495,8 +4834,8 @@
             8.5077761
           ],
           [
-            125.9787159,
-            8.5074862
+            125.9786754,
+            8.5074718
           ]
         ]
       }
@@ -7678,8 +8017,12 @@
             8.552188
           ],
           [
-            125.9334156,
-            8.5518591
+            125.9333795,
+            8.5518436
+          ],
+          [
+            125.9335033,
+            8.5516177
           ],
           [
             125.9336696,
@@ -7882,12 +8225,8 @@
             8.5123332
           ],
           [
-            125.970047,
-            8.5119486
-          ],
-          [
-            125.9707069,
-            8.5113545
+            125.9699694,
+            8.5120497
           ]
         ]
       }
@@ -7907,6 +8246,10 @@
             8.5076398
           ],
           [
+            125.9790483,
+            8.5076944
+          ],
+          [
             125.9790455,
             8.508051
           ],
@@ -7915,8 +8258,8 @@
             8.508395
           ],
           [
-            125.978774,
-            8.5086982
+            125.9788432,
+            8.5085954
           ],
           [
             125.9786816,
@@ -7938,6 +8281,10 @@
           [
             125.9790487,
             8.5076398
+          ],
+          [
+            125.9790848,
+            8.507637
           ],
           [
             125.9791343,
@@ -8138,15 +8485,118 @@
     },
     {
       "type": "Feature",
+      "id": "way/399345459",
+      "properties": {
+        "@id": "way/399345459",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.9779527,
+            8.508553
+          ],
+          [
+            125.9782317,
+            8.5087387
+          ],
+          [
+            125.9785014,
+            8.5083864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399345460",
+      "properties": {
+        "@id": "way/399345460",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.9785911,
+            8.5081577
+          ],
+          [
+            125.9787041,
+            8.5080096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399351530",
+      "properties": {
+        "@id": "way/399351530",
+        "name": "Maharlika Highway",
+        "alt_name": "Maharlika Highway",
+        "bridge": "yes",
+        "bridge:name": "Hubang",
+        "highway": "trunk",
+        "int_ref": "AH26",
+        "oneway": "no",
+        "ref": "1;AH26",
+        "source": "Neuraltech GPS logger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.9699694,
+            8.5120497
+          ],
+          [
+            125.970179,
+            8.5118453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399351531",
+      "properties": {
+        "@id": "way/399351531",
+        "name": "Maharlika Highway",
+        "alt_name": "Maharlika Highway",
+        "highway": "trunk",
+        "int_ref": "AH26",
+        "oneway": "no",
+        "ref": "1;AH26",
+        "source": "Neuraltech GPS logger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.970179,
+            8.5118453
+          ],
+          [
+            125.9707069,
+            8.5113545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/198505756",
       "properties": {
         "@id": "node/198505756",
-        "source": "GNS",
-        "is_in:state": "Agusan del Sur",
-        "name": "San Francisco, Agusan del Sur",
-        "place": "town",
         "gns_classification": "ADM2",
-        "gns_uni": "-3374342"
+        "gns_uni": "-3374342",
+        "is_in:province": "Agusan del Sur",
+        "local_name": "San Frans",
+        "name": "San Francisco",
+        "place": "town",
+        "source": "GNS"
       },
       "geometry": {
         "type": "Point",
@@ -8161,8 +8611,8 @@
       "id": "node/1423977407",
       "properties": {
         "@id": "node/1423977407",
-        "name": "Jollibee san franz",
-        "amenity": "fast_food"
+        "amenity": "fast_food",
+        "name": "Jollibee San Francisco"
       },
       "geometry": {
         "type": "Point",
@@ -8266,8 +8716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9776123,
-          8.5036413
+          125.9773599,
+          8.5037383
         ]
       }
     },
@@ -8344,14 +8794,13 @@
       "id": "node/1746658212",
       "properties": {
         "@id": "node/1746658212",
-        "amenity": "restaurant",
-        "name": "Rosario's Restaurant"
+        "shop": "convenience"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9767181,
-          8.5060146
+          125.9767672,
+          8.506017
         ]
       }
     },
@@ -8458,8 +8907,8 @@
       "id": "node/2391052859",
       "properties": {
         "@id": "node/2391052859",
-        "name": "Brgy4 Daycare Center",
-        "amenity": "kindergarten"
+        "amenity": "kindergarten",
+        "name": "Barangay 4 Daycare Center"
       },
       "geometry": {
         "type": "Point",
@@ -8597,8 +9046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9774332,
-          8.5074646
+          125.9774248,
+          8.5074782
         ]
       }
     },
@@ -8631,8 +9080,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9761024,
-          8.5096118
+          125.9763253,
+          8.5098647
         ]
       }
     },
@@ -8641,8 +9090,8 @@
       "id": "node/2463885035",
       "properties": {
         "@id": "node/2463885035",
-        "shop": "doityourself",
-        "name": "Pulvera Hardware"
+        "name": "Pulvera Hardware",
+        "shop": "hardware"
       },
       "geometry": {
         "type": "Point",
@@ -8799,22 +9248,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2530718604",
-      "properties": {
-        "@id": "node/2530718604",
-        "name": "San Francisco Public Market",
-        "shop": "supermarket"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.9777026,
-          8.507432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2530721678",
       "properties": {
         "@id": "node/2530721678",
@@ -8872,8 +9305,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9737246,
-          8.5073123
+          125.9737478,
+          8.507328
         ]
       }
     },
@@ -8882,7 +9315,7 @@
       "id": "node/2534917141",
       "properties": {
         "@id": "node/2534917141",
-        "amenity": "school",
+        "amenity": "college",
         "name": "Southway College of Technology",
         "source": "docsam"
       },
@@ -9094,8 +9527,8 @@
       "id": "node/3083862659",
       "properties": {
         "@id": "node/3083862659",
-        "shop": "doityourself",
-        "name": "Grace Ong Hardware"
+        "name": "Grace Ong Hardware",
+        "shop": "hardware"
       },
       "geometry": {
         "type": "Point",
@@ -9126,14 +9559,14 @@
       "id": "node/3375683597",
       "properties": {
         "@id": "node/3375683597",
-        "name": "T&M Trading",
-        "shop": "doityourself"
+        "name": "Mario Go",
+        "shop": "hardware"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.979199,
-          8.506119
+          125.9792303,
+          8.5061226
         ]
       }
     },
@@ -9180,8 +9613,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9801853,
-          8.5080625
+          125.9801736,
+          8.5080547
         ]
       }
     },
@@ -9259,8 +9692,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9775884,
-          8.506078
+          125.9775807,
+          8.506226
         ]
       }
     },
@@ -9335,14 +9768,2842 @@
       "id": "node/3742872193",
       "properties": {
         "@id": "node/3742872193",
-        "amenity": "bar",
+        "amenity": "restaurant",
         "name": "EJ Eat All U Can & Restobar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.9722541,
-          8.5103736
+          125.9718514,
+          8.510772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020761227",
+      "properties": {
+        "@id": "node/4020761227",
+        "fixme": "ukay-ukay clothing store",
+        "name": "Maria's General Merchandise",
+        "second_hand": "only",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785142,
+          8.5064035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020762182",
+      "properties": {
+        "@id": "node/4020762182",
+        "name": "Arbee Bakeshop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9786241,
+          8.507426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020762639",
+      "properties": {
+        "@id": "node/4020762639",
+        "amenity": "pub",
+        "name": "Boodlesite",
+        "note": "tindahan bilyaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9808821,
+          8.5084758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020763155",
+      "properties": {
+        "@id": "node/4020763155",
+        "fixme": "purified drinking water station",
+        "name": "Water Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9782433,
+          8.5074248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020763532",
+      "properties": {
+        "@id": "node/4020763532",
+        "name": "Chie_Chie Bakeshop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784201,
+          8.506939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020763541",
+      "properties": {
+        "@id": "node/4020763541",
+        "fixme": "sells all kinds of poultry products, feeds, veterinary medicines",
+        "name": "JM Poultry and Livestock Supply, Inc.",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784575,
+          8.5073273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020763542",
+      "properties": {
+        "@id": "node/4020763542",
+        "fixme": "Lending Company, member of Norkis Group of Companies",
+        "name": "Exquisite Resources, Inc.",
+        "shop": "money_lender"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785243,
+          8.5073617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020764329",
+      "properties": {
+        "@id": "node/4020764329",
+        "fixme": "distributor of genuine motor parts",
+        "name": "Jason Motor Supply and General Marketing",
+        "parts": "yes",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9781655,
+          8.5068227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020764340",
+      "properties": {
+        "@id": "node/4020764340",
+        "fixme": "terminal",
+        "name": "Skylab Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9787122,
+          8.5071925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020764341",
+      "properties": {
+        "@id": "node/4020764341",
+        "fixme": "what to tag here?",
+        "name": "Multicab Terminal bound to Rosario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9787226,
+          8.5070883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020781633",
+      "properties": {
+        "@id": "node/4020781633",
+        "name": "ROSE bakeshop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9789284,
+          8.5074966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782941",
+      "properties": {
+        "@id": "node/4020782941",
+        "amenity": "restaurant",
+        "name": "Mabe's Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9739059,
+          8.5101406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782942",
+      "properties": {
+        "@id": "node/4020782942",
+        "name": "ANZLE MARKETING",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790139,
+          8.507104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782943",
+      "properties": {
+        "@id": "node/4020782943",
+        "name": "PALAWAN PAWNSHOP",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790266,
+          8.5070101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782944",
+      "properties": {
+        "@id": "node/4020782944",
+        "name": "BEAUCH INTERNATIONAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784401,
+          8.5066865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782951",
+      "properties": {
+        "@id": "node/4020782951",
+        "name": "Southern Arms Corportion",
+        "shop": "weapons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790023,
+          8.5068536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782952",
+      "properties": {
+        "@id": "node/4020782952",
+        "name": "BOLTS & NUTS trding",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.978983,
+          8.5074153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020782953",
+      "properties": {
+        "@id": "node/4020782953",
+        "name": "MLHUILLER",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790186,
+          8.5070715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783790",
+      "properties": {
+        "@id": "node/4020783790",
+        "name": "RD PAWNSHOP",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9789957,
+          8.5072217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783791",
+      "properties": {
+        "@id": "node/4020783791",
+        "amenity": "pharmacy",
+        "name": "FARMACIA MERICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790202,
+          8.507062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783792",
+      "properties": {
+        "@id": "node/4020783792",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.975129,
+          8.509504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783853",
+      "properties": {
+        "@id": "node/4020783853",
+        "name": "SHIROGI PAN DE KOFI",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9787663,
+          8.5066066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783878",
+      "properties": {
+        "@id": "node/4020783878",
+        "name": "SALON DE NES AND SPA",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784907,
+          8.5065833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783879",
+      "properties": {
+        "@id": "node/4020783879",
+        "name": "REL-ARCTIC-AIRE ENTERPRISES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.979007,
+          8.5071586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783880",
+      "properties": {
+        "@id": "node/4020783880",
+        "amenity": "restaurant",
+        "name": "JACKS PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9788253,
+          8.5074478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783881",
+      "properties": {
+        "@id": "node/4020783881",
+        "amenity": "bank",
+        "name": "UHland loans corporation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790289,
+          8.5062944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783884",
+      "properties": {
+        "@id": "node/4020783884",
+        "craft": "tailor",
+        "name": "Abadiez Tailoring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9783847,
+          8.5060388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783885",
+      "properties": {
+        "@id": "node/4020783885",
+        "name": "Sarah Gem pawnshop",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784041,
+          8.5062605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783886",
+      "properties": {
+        "@id": "node/4020783886",
+        "name": "maanyag saloon",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9789835,
+          8.5060669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783889",
+      "properties": {
+        "@id": "node/4020783889",
+        "name": "MACARAYO Enterprises",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9789827,
+          8.5067024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783890",
+      "properties": {
+        "@id": "node/4020783890",
+        "name": "Radiowealth Finance",
+        "office": "financial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790122,
+          8.5068921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783897",
+      "properties": {
+        "@id": "node/4020783897",
+        "amenity": "fuel",
+        "name": "4GN",
+        "opening_hours": "Mo-Su 07:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9687097,
+          8.5128904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783996",
+      "properties": {
+        "@id": "node/4020783996",
+        "name": "WESTERN UNION",
+        "office": "financial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9786152,
+          8.5066141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020783997",
+      "properties": {
+        "@id": "node/4020783997",
+        "amenity": "fuel",
+        "name": "Petron Gasul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.978698,
+          8.5066358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784532",
+      "properties": {
+        "@id": "node/4020784532",
+        "name": "PERA Multi Purpose Cooperative",
+        "office": "cooperative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785639,
+          8.5060759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784533",
+      "properties": {
+        "@id": "node/4020784533",
+        "name": "Joystar Trading",
+        "shop": "trade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9778033,
+          8.5062021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784791",
+      "properties": {
+        "@id": "node/4020784791",
+        "name": "Universe Pawnshop",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9788194,
+          8.5060543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784792",
+      "properties": {
+        "@id": "node/4020784792",
+        "name": "Manolette Bakeshop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.977755,
+          8.5060297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784793",
+      "properties": {
+        "@id": "node/4020784793",
+        "name": "Farmers Edge",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9787684,
+          8.5064273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784794",
+      "properties": {
+        "@id": "node/4020784794",
+        "name": "DMB Cycle Parts",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9789782,
+          8.5064058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784907",
+      "properties": {
+        "@id": "node/4020784907",
+        "amenity": "fuel",
+        "name": "4GN",
+        "opening_hours": "Mo-Su 09:00-09:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9710176,
+          8.5108536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020784947",
+      "properties": {
+        "@id": "node/4020784947",
+        "name": "HECOM",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9783953,
+          8.5058128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020788084",
+      "properties": {
+        "@id": "node/4020788084",
+        "name": "Sinubong",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9777435,
+          8.5045076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020788085",
+      "properties": {
+        "@id": "node/4020788085",
+        "amenity": "fuel",
+        "name": "Supreme Fuel",
+        "opening_hours": "Mo-Su 06:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.977712,
+          8.5034251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020799297",
+      "properties": {
+        "@id": "node/4020799297",
+        "name": "Abban Trading",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9773224,
+          8.5076192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020799298",
+      "properties": {
+        "@id": "node/4020799298",
+        "name": "Ang",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9780144,
+          8.5083275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020799299",
+      "properties": {
+        "@id": "node/4020799299",
+        "amenity": "marketplace",
+        "name": "Old Public Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9782236,
+          8.5084628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020799302",
+      "properties": {
+        "@id": "node/4020799302",
+        "name": "Phone Land",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9786072,
+          8.5085954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020799303",
+      "properties": {
+        "@id": "node/4020799303",
+        "name": "Escleto",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.978524,
+          8.5085052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020799304",
+      "properties": {
+        "@id": "node/4020799304",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792563,
+          8.5074866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020800900",
+      "properties": {
+        "@id": "node/4020800900",
+        "name": "Loklok Hardware",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9816488,
+          8.5063539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020800901",
+      "properties": {
+        "@id": "node/4020800901",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9816514,
+          8.5065863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020800902",
+      "properties": {
+        "@id": "node/4020800902",
+        "amenity": "drinking_water",
+        "name": "ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9816917,
+          8.5059189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020802629",
+      "properties": {
+        "@id": "node/4020802629",
+        "amenity": "restaurant",
+        "name": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9766837,
+          8.50816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020803025",
+      "properties": {
+        "@id": "node/4020803025",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9767747,
+          8.5084486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020806493",
+      "properties": {
+        "@id": "node/4020806493",
+        "landuse": "residential",
+        "name": "House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794891,
+          8.5074134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020806746",
+      "properties": {
+        "@id": "node/4020806746",
+        "amenity": "fast_food",
+        "name": "Snd eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9801216,
+          8.5083989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020819977",
+      "properties": {
+        "@id": "node/4020819977",
+        "amenity": "water_point",
+        "name": "aqua spring water refilling station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9807607,
+          8.5084872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020819978",
+      "properties": {
+        "@id": "node/4020819978",
+        "name": "mr. frederick",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9807297,
+          8.5084558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020819979",
+      "properties": {
+        "@id": "node/4020819979",
+        "amenity": "drinking_water",
+        "name": "PHilppine spring water resources, Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9796492,
+          8.5079678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822416",
+      "properties": {
+        "@id": "node/4020822416",
+        "name": "Imperial",
+        "user_defined_other": "appliances"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792721,
+          8.5071589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822417",
+      "properties": {
+        "@id": "node/4020822417",
+        "name": "Ranoco Law Office",
+        "user_defined_other": "notary public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9793065,
+          8.5075758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822418",
+      "properties": {
+        "@id": "node/4020822418",
+        "name": "JUNIE",
+        "user_defined_other": "auto supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.979356,
+          8.5067852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822421",
+      "properties": {
+        "@id": "node/4020822421",
+        "amenity": "fast_food",
+        "name": "Frias Carenderia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792475,
+          8.5070445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822422",
+      "properties": {
+        "@id": "node/4020822422",
+        "name": "Bayantil",
+        "service": "telephone post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9795407,
+          8.5067706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822424",
+      "properties": {
+        "@id": "node/4020822424",
+        "name": "Aselco",
+        "user_defined_other": "electric post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790837,
+          8.5076091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822425",
+      "properties": {
+        "@id": "node/4020822425",
+        "name": "Arian Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9807667,
+          8.5076183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822426",
+      "properties": {
+        "@id": "node/4020822426",
+        "man_made": "works",
+        "name": "Lindo Iron Works"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.981555,
+          8.5079021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822556",
+      "properties": {
+        "@id": "node/4020822556",
+        "name": "Unistar",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792175,
+          8.5075761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822557",
+      "properties": {
+        "@id": "node/4020822557",
+        "landuse": "residential",
+        "name": "House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794848,
+          8.5067807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822558",
+      "properties": {
+        "@id": "node/4020822558",
+        "landuse": "residential",
+        "name": "House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794936,
+          8.5070915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822560",
+      "properties": {
+        "@id": "node/4020822560",
+        "amenity": "fast_food",
+        "name": "Carenderia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794757,
+          8.5075394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822561",
+      "properties": {
+        "@id": "node/4020822561",
+        "emergency": "fire_hydrant",
+        "name": "Fire Hydrant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791348,
+          8.5067512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822698",
+      "properties": {
+        "@id": "node/4020822698",
+        "name": "Pulvera",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792547,
+          8.5068485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822699",
+      "properties": {
+        "@id": "node/4020822699",
+        "name": "Greater RJ",
+        "user_defined_other": "appliances store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792037,
+          8.5073406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822700",
+      "properties": {
+        "@id": "node/4020822700",
+        "name": "Pulvera",
+        "user_defined_other": "warehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794962,
+          8.5069524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822701",
+      "properties": {
+        "@id": "node/4020822701",
+        "landuse": "residential",
+        "name": "House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794965,
+          8.5072695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822703",
+      "properties": {
+        "@id": "node/4020822703",
+        "name": "RAM",
+        "user_defined_other": "gun store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.979213,
+          8.5067839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822704",
+      "properties": {
+        "@id": "node/4020822704",
+        "name": "Aselco",
+        "user_defined_other": "electric post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791016,
+          8.5067518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822706",
+      "properties": {
+        "@id": "node/4020822706",
+        "name": "Bayantil",
+        "service": "telephone post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.979127,
+          8.5071423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822707",
+      "properties": {
+        "@id": "node/4020822707",
+        "amenity": "doctors",
+        "name": "aladin b. plaza,md",
+        "note": "urologic surgeon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9807823,
+          8.5084715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020822708",
+      "properties": {
+        "@id": "node/4020822708",
+        "amenity": "police",
+        "name": "Barangay 2 Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9810648,
+          8.5084982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020823177",
+      "properties": {
+        "@id": "node/4020823177",
+        "man_made": "mast",
+        "name": "FM Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.980182,
+          8.5084385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020823573",
+      "properties": {
+        "@id": "node/4020823573",
+        "name": "EJN Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9779523,
+          8.5086112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020823754",
+      "properties": {
+        "@id": "node/4020823754",
+        "name": "JMARRU",
+        "note": "auto parts and general merchandise",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785612,
+          8.5086683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020823756",
+      "properties": {
+        "@id": "node/4020823756",
+        "name": "JP Fruits",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784472,
+          8.5085356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020823757",
+      "properties": {
+        "@id": "node/4020823757",
+        "name": "JM Sari-sari Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9782313,
+          8.5088181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020823758",
+      "properties": {
+        "@id": "node/4020823758",
+        "name": "Mhirko Agrivet Supply",
+        "note": "agri supplies, feeds",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9783198,
+          8.5087306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824082",
+      "properties": {
+        "@id": "node/4020824082",
+        "name": "Cebuana Lhuillier",
+        "note": "money transfer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785786,
+          8.5086391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824083",
+      "properties": {
+        "@id": "node/4020824083",
+        "name": "Ding Technology",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.978643,
+          8.5085502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824084",
+      "properties": {
+        "@id": "node/4020824084",
+        "name": "Triple \"E\" Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9784123,
+          8.508594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824085",
+      "properties": {
+        "@id": "node/4020824085",
+        "name": "Square Garmts",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9783412,
+          8.5086948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824447",
+      "properties": {
+        "@id": "node/4020824447",
+        "name": "American Standard T.V.",
+        "note": "second_hand television",
+        "shop": "second_hand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785357,
+          8.5086974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824448",
+      "properties": {
+        "@id": "node/4020824448",
+        "name": "Escleto Mktg",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9785116,
+          8.5084534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824449",
+      "properties": {
+        "@id": "node/4020824449",
+        "name": "Peñalosa Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9783614,
+          8.5086669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824463",
+      "properties": {
+        "@id": "node/4020824463",
+        "name": "Tagyamon store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9797883,
+          8.5084351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824464",
+      "properties": {
+        "@id": "node/4020824464",
+        "name": "Biduhan store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9795985,
+          8.5082176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020824975",
+      "properties": {
+        "@id": "node/4020824975",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9802655,
+          8.5077176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825054",
+      "properties": {
+        "@id": "node/4020825054",
+        "name": "Pulvera's store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9795796,
+          8.5084009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825055",
+      "properties": {
+        "@id": "node/4020825055",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9802437,
+          8.5077549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825056",
+      "properties": {
+        "@id": "node/4020825056",
+        "highway": "rest_area",
+        "name": "Waiting shed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9801866,
+          8.5081609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825063",
+      "properties": {
+        "@id": "node/4020825063",
+        "level": "2",
+        "name": "I7 phenomenal computer center",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790903,
+          8.5077759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825064",
+      "properties": {
+        "@id": "node/4020825064",
+        "amenity": "cafe",
+        "cuisine": "donut",
+        "name": "Dunkin' Donuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791239,
+          8.5081249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825073",
+      "properties": {
+        "@id": "node/4020825073",
+        "craft": "dressmaker",
+        "name": "QINNS DRESS SHOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9792436,
+          8.5083926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825074",
+      "properties": {
+        "@id": "node/4020825074",
+        "level": "2",
+        "name": "WALLY MAGIC BEAUTY FACIAL CENTER",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791258,
+          8.5077529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825075",
+      "properties": {
+        "@id": "node/4020825075",
+        "name": "AMIGOS",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790875,
+          8.5082375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825076",
+      "properties": {
+        "@id": "node/4020825076",
+        "name": "Ticketing Outlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9793193,
+          8.5083946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825077",
+      "properties": {
+        "@id": "node/4020825077",
+        "clothes": "2nd hand",
+        "name": "THELMA UKAY2X",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791335,
+          8.5078836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825457",
+      "properties": {
+        "@id": "node/4020825457",
+        "amenity": "restaurant",
+        "name": "THELMA EATERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791318,
+          8.5079545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825458",
+      "properties": {
+        "@id": "node/4020825458",
+        "amenity": "restaurant",
+        "name": "LUCKY 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790704,
+          8.5081986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825459",
+      "properties": {
+        "@id": "node/4020825459",
+        "name": "CORE TECH",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.979297,
+          8.5083907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825460",
+      "properties": {
+        "@id": "node/4020825460",
+        "name": "Billiard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9794705,
+          8.5078614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825461",
+      "properties": {
+        "@id": "node/4020825461",
+        "amenity": "cafe",
+        "name": "eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791145,
+          8.5077081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825462",
+      "properties": {
+        "@id": "node/4020825462",
+        "name": "Juan's to TRAVEL",
+        "shop": "ticket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9790657,
+          8.5083537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825463",
+      "properties": {
+        "@id": "node/4020825463",
+        "amenity": "clinic",
+        "level": "2",
+        "name": "4m ultrasound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791335,
+          8.5078074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020825464",
+      "properties": {
+        "@id": "node/4020825464",
+        "healthcare": "centre",
+        "name": "KIAN Polyclinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9791055,
+          8.5078042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020829310",
+      "properties": {
+        "@id": "node/4020829310",
+        "amenity": "marketplace",
+        "name": "public market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9781983,
+          8.508645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020829415",
+      "properties": {
+        "@id": "node/4020829415",
+        "name": "ice for sale",
+        "shop": "ice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9779817,
+          8.5085367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020829548",
+      "properties": {
+        "@id": "node/4020829548",
+        "fixme": "For correction",
+        "name": "aglow multi purpose cooperative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9786417,
+          8.5086536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020829549",
+      "properties": {
+        "@id": "node/4020829549",
+        "amenity": "fast_food",
+        "fixme": "For correction",
+        "name": "bigtime sandwitches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9786133,
+          8.5086967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020831638",
+      "properties": {
+        "@id": "node/4020831638",
+        "name": "Oro Motorparts",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774992,
+          8.5084952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837051",
+      "properties": {
+        "@id": "node/4020837051",
+        "name": "N-TERNITY COMMERCIAL",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772648,
+          8.50763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837052",
+      "properties": {
+        "@id": "node/4020837052",
+        "name": "Mandaue Venus Pawnshop",
+        "pawnbroker": "pawnbroker",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9771856,
+          8.5077275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837053",
+      "properties": {
+        "@id": "node/4020837053",
+        "name": "RD Pawnshop",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9770806,
+          8.5078489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837054",
+      "properties": {
+        "@id": "node/4020837054",
+        "name": "Mitsubishi Digital",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9770035,
+          8.5079942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837055",
+      "properties": {
+        "@id": "node/4020837055",
+        "name": "A and M Commercial",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9769404,
+          8.5080665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837056",
+      "properties": {
+        "@id": "node/4020837056",
+        "club": "computer",
+        "name": "Nelbox Internet and Computer Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9771202,
+          8.5082145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837057",
+      "properties": {
+        "@id": "node/4020837057",
+        "amenity": "fast_food",
+        "name": "Mang Keko's Fried Chicken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9773636,
+          8.508417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837058",
+      "properties": {
+        "@id": "node/4020837058",
+        "name": "Hibaya Electronics Merchandise",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774542,
+          8.508476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837059",
+      "properties": {
+        "@id": "node/4020837059",
+        "name": "Mutya's ukay",
+        "second_hand": "only",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9775936,
+          8.5083681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837060",
+      "properties": {
+        "@id": "node/4020837060",
+        "name": "Kith barbershop",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774353,
+          8.508242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837061",
+      "properties": {
+        "@id": "node/4020837061",
+        "amenity": "fast_food",
+        "name": "Country fried chicken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772497,
+          8.5080704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837062",
+      "properties": {
+        "@id": "node/4020837062",
+        "name": "Jo Fashion",
+        "shop": "fashion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9773105,
+          8.5079443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837063",
+      "properties": {
+        "@id": "node/4020837063",
+        "name": "Glo House pf beauty",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9773438,
+          8.5078882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837690",
+      "properties": {
+        "@id": "node/4020837690",
+        "name": "Rose Bakeshop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9771407,
+          8.5077905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837691",
+      "properties": {
+        "@id": "node/4020837691",
+        "name": "Triple diamond finance corporation",
+        "office": "financial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772299,
+          8.5076857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837692",
+      "properties": {
+        "@id": "node/4020837692",
+        "name": "MLhuiller",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9771676,
+          8.5077587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837693",
+      "properties": {
+        "@id": "node/4020837693",
+        "name": "Palawan Pawnshop",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9770605,
+          8.5078901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837694",
+      "properties": {
+        "@id": "node/4020837694",
+        "amenity": "bank",
+        "name": "Enterprise Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9770094,
+          8.5081344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837806",
+      "properties": {
+        "@id": "node/4020837806",
+        "name": "Tambunting",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9771134,
+          8.507827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837807",
+      "properties": {
+        "@id": "node/4020837807",
+        "name": "Jean Commercial and Cellphone Center",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.977031,
+          8.5079418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837808",
+      "properties": {
+        "@id": "node/4020837808",
+        "name": "KNJ Merchandise",
+        "shop": "sewing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9769713,
+          8.5080333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837809",
+      "properties": {
+        "@id": "node/4020837809",
+        "name": "JL Shoe Shop",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9770719,
+          8.5081846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837810",
+      "properties": {
+        "@id": "node/4020837810",
+        "name": "Infocare advertising",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772388,
+          8.5083241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837811",
+      "properties": {
+        "@id": "node/4020837811",
+        "name": "Western Union",
+        "shop": "pawnbroker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774066,
+          8.5084508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837812",
+      "properties": {
+        "@id": "node/4020837812",
+        "craft": "tailor",
+        "name": "Hibaya Modiste Supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.977541,
+          8.5085288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837813",
+      "properties": {
+        "@id": "node/4020837813",
+        "name": "Mabel's house of fashion",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774722,
+          8.5082871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837814",
+      "properties": {
+        "@id": "node/4020837814",
+        "name": "Free will finance corporation",
+        "shop": "money_lender"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772926,
+          8.5081318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837815",
+      "properties": {
+        "@id": "node/4020837815",
+        "name": "Dudz Graphic arts and Digital Photography",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772688,
+          8.5080045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837816",
+      "properties": {
+        "@id": "node/4020837816",
+        "craft": "dressmaker",
+        "name": "Zebra Trading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774063,
+          8.5077821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837817",
+      "properties": {
+        "@id": "node/4020837817",
+        "name": "Wonder phones",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9773793,
+          8.5076603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837818",
+      "properties": {
+        "@id": "node/4020837818",
+        "name": "Isaiah glass",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772926,
+          8.5083613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020837989",
+      "properties": {
+        "@id": "node/4020837989",
+        "name": "Nelfe's watch store",
+        "shop": "watches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9771885,
+          8.5082624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020838189",
+      "properties": {
+        "@id": "node/4020838189",
+        "name": "Kikoman Barbero",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9775413,
+          8.5083124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020838190",
+      "properties": {
+        "@id": "node/4020838190",
+        "name": "TS Fashion",
+        "shop": "fashion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.977346,
+          8.5081714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020838191",
+      "properties": {
+        "@id": "node/4020838191",
+        "amenity": "fast_food",
+        "name": "Zebra eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9773796,
+          8.5078221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020838192",
+      "properties": {
+        "@id": "node/4020838192",
+        "name": "Natasha",
+        "shop": "fashion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774321,
+          8.5077501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020838193",
+      "properties": {
+        "@id": "node/4020838193",
+        "name": "Bigasan ni Christian",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9774549,
+          8.5077087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020838194",
+      "properties": {
+        "@id": "node/4020838194",
+        "name": "ABBAN TRADING",
+        "shop": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9772943,
+          8.5075843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020870058",
+      "properties": {
+        "@id": "node/4020870058",
+        "name": "Sante International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9798278,
+          8.5054988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020886324",
+      "properties": {
+        "@id": "node/4020886324",
+        "name": "Boy Steel Trading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9798268,
+          8.5052516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020886327",
+      "properties": {
+        "@id": "node/4020886327",
+        "name": "Boom Computer Center",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9817231,
+          8.5058077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020886328",
+      "properties": {
+        "@id": "node/4020886328",
+        "name": "San Lorenzo Ruiz Memorial Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9816014,
+          8.505233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020886329",
+      "properties": {
+        "@id": "node/4020886329",
+        "name": "Bert Eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9804057,
+          8.5052441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020886330",
+      "properties": {
+        "@id": "node/4020886330",
+        "name": "Motorsave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9806466,
+          8.5052193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020901019",
+      "properties": {
+        "@id": "node/4020901019",
+        "name": "E & C Facial Care and Beauty Salon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9815498,
+          8.505233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020901020",
+      "properties": {
+        "@id": "node/4020901020",
+        "name": "Transcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9807617,
+          8.5052281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020905963",
+      "properties": {
+        "@id": "node/4020905963",
+        "name": "Vulcanizing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9814864,
+          8.505232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020905964",
+      "properties": {
+        "@id": "node/4020905964",
+        "name": "Living Water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9800703,
+          8.5052677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020905965",
+      "properties": {
+        "@id": "node/4020905965",
+        "name": "Chicken Inato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.980231,
+          8.5052555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020905966",
+      "properties": {
+        "@id": "node/4020905966",
+        "name": "Affordable Tarpulin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9805313,
+          8.5052405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020907252",
+      "properties": {
+        "@id": "node/4020907252",
+        "name": "Aircon Carwash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9798224,
+          8.5056593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020907253",
+      "properties": {
+        "@id": "node/4020907253",
+        "name": "Hunters Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9816772,
+          8.5052363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020907390",
+      "properties": {
+        "@id": "node/4020907390",
+        "name": "Living Water Refilling Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9797823,
+          8.5053049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020907391",
+      "properties": {
+        "@id": "node/4020907391",
+        "amenity": "food_court",
+        "name": "Ynas Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.981703,
+          8.5058715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4020907392",
+      "properties": {
+        "@id": "node/4020907392",
+        "amenity": "food_court",
+        "name": "Nareto Eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9817664,
+          8.5052445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4022859923",
+      "properties": {
+        "@id": "node/4022859923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9798476,
+          8.5060164
         ]
       }
     },
@@ -9440,15 +12701,15 @@
       "id": "node/3389210051",
       "properties": {
         "@id": "node/3389210051",
-        "distance": "1306km",
+        "distance": "1306 km",
         "highway": "milestone",
         "name": "KM1305",
         "source": "Schadow1 Expeditions",
-        "@timestamp": "2015-07-12T09:10:25Z",
-        "@version": 2,
-        "@changeset": 32577261,
-        "@user": "schadow1",
-        "@uid": 81841
+        "@timestamp": "2016-02-23T22:55:30Z",
+        "@version": 3,
+        "@changeset": 37401017,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "Point",
@@ -9463,15 +12724,15 @@
       "id": "node/3389210050",
       "properties": {
         "@id": "node/3389210050",
-        "distance": "1304km",
+        "distance": "1304 km",
         "highway": "milestone",
         "name": "KM1304",
         "source": "Schadow1 Expeditions",
-        "@timestamp": "2015-07-12T09:10:25Z",
-        "@version": 2,
-        "@changeset": 32577261,
-        "@user": "schadow1",
-        "@uid": 81841
+        "@timestamp": "2016-02-23T22:55:30Z",
+        "@version": 3,
+        "@changeset": 37401017,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "Point",
@@ -9486,15 +12747,15 @@
       "id": "node/3389210052",
       "properties": {
         "@id": "node/3389210052",
-        "distance": "1306km",
+        "distance": "1306 km",
         "highway": "milestone",
         "name": "KM1306",
         "source": "Schadow1 Expeditions",
-        "@timestamp": "2015-07-12T09:10:25Z",
-        "@version": 2,
-        "@changeset": 32577261,
-        "@user": "schadow1",
-        "@uid": 81841
+        "@timestamp": "2016-02-23T22:55:30Z",
+        "@version": 3,
+        "@changeset": 37401017,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "Point",
@@ -9509,15 +12770,15 @@
       "id": "node/3389210048",
       "properties": {
         "@id": "node/3389210048",
-        "distance": "1302km",
+        "distance": "1302 km",
         "highway": "milestone",
         "name": "KM1302",
         "source": "Schadow1 Expeditions",
-        "@timestamp": "2015-07-12T09:10:25Z",
-        "@version": 2,
-        "@changeset": 32577261,
-        "@user": "schadow1",
-        "@uid": 81841
+        "@timestamp": "2016-02-23T22:55:29Z",
+        "@version": 3,
+        "@changeset": 37401017,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "Point",
@@ -9532,15 +12793,15 @@
       "id": "node/3389210049",
       "properties": {
         "@id": "node/3389210049",
-        "distance": "1303km",
+        "distance": "1303 km",
         "highway": "milestone",
         "name": "KM1303",
         "source": "Schadow1 Expeditions",
-        "@timestamp": "2015-07-12T09:10:25Z",
-        "@version": 2,
-        "@changeset": 32577261,
-        "@user": "schadow1",
-        "@uid": 81841
+        "@timestamp": "2016-02-23T22:55:30Z",
+        "@version": 3,
+        "@changeset": 37401017,
+        "@user": "GOwin",
+        "@uid": 1041828
       },
       "geometry": {
         "type": "Point",
